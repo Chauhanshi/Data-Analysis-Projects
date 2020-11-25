@@ -23,6 +23,6 @@ This repository contains my graduation certificate
 
 **Udacity**, Data Analyst Nanodegree
 
-> <img src="" alt="Data Analyst Nanodegree Certificate" height="400" >
+> <img src="https://github.com/Chauhanshi/Data-Analysis-Projects/blob/main/DA%20grad%20certificate%20Shivam%20Chauhan%20Udacity.pdf" alt="Data Analyst Nanodegree Certificate" height="400" >
 
 > My completion of this degree may be verified at Udacity: https://confirm.udacity.com/FS3EF2KA
