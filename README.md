@@ -11,7 +11,7 @@
 | 2. | Wrangle and Analyze Data | [Fuel Economy Data Analysis](https://nbviewer.jupyter.org/github/Chauhanshi/Data-Analysis-NoShow-Fuel/blob/master/Fuel%20Economy%20Data%20Analysis/Fuel%20Economy%20Data%20Analysis.ipynb) |
 | 3.    | Analyze Data and Compare | [Wine Data Analysis](https://nbviewer.jupyter.org/github/Chauhanshi/Data-Analysis-on-Wine-Quality-Data/blob/master/Wine%20Quality%20Data%20%20Analysis.ipynb) |
 | 4. | Analyze Experiment Results | [A/B Testing of E-commerce Website](https://nbviewer.jupyter.org/github/Chauhanshi/E-commerce-A-B-Testing/blob/master/Analyze_ab_test_results_notebook.ipynb) |
-| 5. | No Show Appointments Data Analysis | [No Show Appointments](https://nbviewer.jupyter.org/github/Chauhanshi/Data-Analysis-NoShow-Fuel/blob/master/noshowappointments/Project%202%20-%20Investing%20Dataset-checkpoint.ipynb) |
+| 5. | Proportion Analysis | [No Show Appointments](https://nbviewer.jupyter.org/github/Chauhanshi/Data-Analysis-NoShow-Fuel/blob/master/noshowappointments/Project%202%20-%20Investing%20Dataset-checkpoint.ipynb) |
 | 6. | Analyzing Trend | [Analyzing-Temperature-Trend](https://nbviewer.jupyter.org/github/Chauhanshi/Analyzing-Temperature-Trend/blob/master/Udacity_project1_DA_Shivam.pdf) |
 
 
