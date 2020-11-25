@@ -16,8 +16,13 @@
 
 
 ## Graduation Certificate
-This repository contains my [graduation certificate](https://github.com/jamesdellinger/deep_learning_nanodegree_graduation_certificate/blob/master/deep_learning_nanodegree_graduation_certificate_james_dellinger.pdf) for Udacity's [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101) Nanodegree.
+This repository contains my graduation certificate
 
-<img src="https://github.com/jamesdellinger/deep_learning_nanodegree_graduation_certificate/blob/master/deep_learning_nanodegree_graduation_certificate_james_dellinger.png" alt="Deep Learning Nanodegree Certificate" height="400" >
+**Northeastern University**, Master's in Analytics 
+> *Graduating Dec 2020, Coming Soon*
 
-My completion of this degree may be verified at Udacity: https://confirm.udacity.com/TA9YXFPW
+**Udacity**, Data Analyst Nanodegree
+
+> <img src="" alt="Data Analyst Nanodegree Certificate" height="400" >
+
+> My completion of this degree may be verified at Udacity: https://confirm.udacity.com/FS3EF2KA
