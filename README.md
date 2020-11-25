@@ -1,9 +1,9 @@
 # Data-Analysis-Projects
 
-*Mastered the skills of Data Gathering, Data Assessing, Data Cleaning, Data Wrangling, Data Vizualization and their implementation in Python (Pandas, Seaborn, Matplotlib) for finding insights and story telling. 
+*Mastered the skills of Data Gathering, Data Assessing, Data Cleaning, Data Wrangling, Data Vizualization and their implementation in Python (Pandas, Seaborn, Matplotlib) for finding insights and story telling.*
 
 ## Project Topics
-These project were done as academic project at Northeastern University (Master's in Analytics) and Udacity (Data Analyst Nanodegree).  
+*These project were done as academic project at Northeastern University (Master's in Analytics) and Udacity (Data Analyst Nanodegree).*
 
 | Topic | Name | Project |
 |:-----:|------|---------|
