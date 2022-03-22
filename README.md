@@ -19,7 +19,7 @@
 This repository contains my graduation certificate
 
 **Northeastern University**, Master's in Analytics 
-> *Graduating Dec 2020, Coming Soon*
+> *Graduated Dec 2020*
 
 **Udacity**, Data Analyst Nanodegree
 
